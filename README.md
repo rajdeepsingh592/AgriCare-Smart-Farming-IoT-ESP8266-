@@ -1,4 +1,4 @@
-# 🌱🚜 AgriCare – Ultra Advanced Smart Farming IoT System (ESP8266)
+# 🌱🚜 AgriCare –  Smart Farming & Monitoring IOT System (ESP8266)
 
 AgriCare is a **next-generation Smart Agriculture IoT System** designed for **open-field farming**. This project integrates **multiple sensors, secure internet communication, real-time visualization, and intelligent decision-making logic** to assist farmers in monitoring and protecting crops efficiently. 🌾🧠
 
